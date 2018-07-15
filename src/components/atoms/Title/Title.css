@@ -1,0 +1,14 @@
+.atm-items-title,
+.atm-comments-title {
+  font-size: 2.25rem;
+  font-weight: 300;
+  line-height: 2.25rem;
+  color: #565A69;
+}
+.atm-items-title {
+  margin: 0.75rem 0 0 6.25%;
+}
+.atm-comments-title {
+  grid-area: a;
+  margin: 0;
+}

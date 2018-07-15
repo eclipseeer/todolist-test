@@ -1,0 +1,18 @@
+.mol-comment {
+  width: 100%;
+  display: flex;
+  padding: 1rem 0;
+  border-bottom: 1.5px solid #F2F2F2;
+}
+.mol-comment:last-child {
+  border: none;
+  padding-bottom: 0;
+}
+.mol-comment-text {
+  width: 80%;
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.125rem;
+  color: #666666;
+}

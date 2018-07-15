@@ -1,0 +1,5 @@
+.mol-add-comment {
+  grid-area: c;
+  display: flex;
+  margin-top: 1rem;
+}

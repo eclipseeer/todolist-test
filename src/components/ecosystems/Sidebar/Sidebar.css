@@ -1,0 +1,19 @@
+.eco-sidebar {
+  grid-area: a;
+  height: 100%;
+  color: white;
+  background-color: #2B2F3E;
+}
+.eco-sidebar-title {
+  font-size: 2.25rem;
+  font-weight: 300;
+  line-height: 2.25rem;
+  margin: 1.5rem 0 0 10%;
+}
+.eco-sidebar-subtitle {
+  font-size: 1rem;
+  line-height: 2.25rem;
+  font-weight: 400;
+  margin: 0 0 0 10%;
+  color : #808080;
+}

@@ -1,0 +1,15 @@
+.atm-avatar {
+  height: 3.25rem;
+  width: 3.25rem;
+  margin-right: 0.9rem;
+  margin-top: 0.25rem;
+}
+.avatar-grey {
+  background-color: #E6E6E6;
+}
+.avatar-orange {
+  background-color: #FF8A00;
+}
+.avatar-blue {
+  background-color: #47568C;
+}

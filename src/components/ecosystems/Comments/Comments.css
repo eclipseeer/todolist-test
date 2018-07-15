@@ -1,0 +1,19 @@
+.eco-comments-wrapper {
+  grid-area: c;
+  display: flex;
+  flex-direction: column;
+}
+.eco-comments {
+  display: grid;
+  grid-template-columns: 4.5% 91% 4.5%;
+  grid-template-rows: 0.75rem 3.5rem auto 10% 1rem;
+  grid-template-areas:
+  '. . .'
+  '. a .'
+  '. b .'
+  '. c .'
+  '. . .';
+  margin: 2.125rem 0 3rem 0;
+  border: 1px solid #F2F2F2;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+}
